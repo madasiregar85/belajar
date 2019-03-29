@@ -1,0 +1,14 @@
+<php
+
+$bulan = array('Januari', 'Februari', 'Maret' );
+
+Foreach ($bulan as $index =>$value) {
+	If (value == 'Maret')}
+
+	echo "cetak bulan"$index." ".$value;
+	echo "<br>";
+
+
+	echo "Bukan bulan Maret yaitu bulan""$value;
+
+	echo "<br>";
